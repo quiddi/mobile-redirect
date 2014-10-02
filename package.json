@@ -4,7 +4,7 @@
   "description": "Mobile Redirect lib",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "test"
+    "test": "grunt test"
   },
   "author": "Janusz Slota <janusz.slota@nixilla.com>",
   "license": "MIT",

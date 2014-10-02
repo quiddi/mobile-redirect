@@ -15,7 +15,7 @@ describe("MobileRedirect tests", function() {
             return {
                 mobile: function() { return mobile; },
                 tablet: function() { return tablet; }
-            }
+            };
         };
 
 

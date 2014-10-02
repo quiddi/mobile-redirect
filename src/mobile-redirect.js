@@ -1,3 +1,5 @@
+/*jslint evil: true */
+
 var MobileRedirect = function(MobileDetect, userAgent, document, location, extend) {
 
     "use strict";
@@ -33,7 +35,7 @@ var MobileRedirect = function(MobileDetect, userAgent, document, location, exten
 
         if(items.hasOwnProperty(i)) {
 
-            expression = expression.replace(new RegExp(items[i], 'g'), 'detector[\'' + items[i] + '\']()')
+            expression = expression.replace(new RegExp(items[i], 'g'), 'detector[\'' + items[i] + '\']()');
         }
     }
 
