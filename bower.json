@@ -1,0 +1,27 @@
+{
+  "name": "MobileRedirect",
+  "version": "0.1.0",
+  "authors": [
+    "Janusz Slota <janusz.slota@nixilla.com>"
+  ],
+  "description": "Redirects to mobile page (i.e. /mobile) if used on mobile. Uses hgoebl/mobile-detect.js.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "mobile",
+    "detect",
+    "redirect"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mobile-detect": "hgoebl/mobile-detect.js#~0.4.0"
+  }
+}

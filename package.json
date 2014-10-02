@@ -1,0 +1,35 @@
+{
+  "name": "MobileRedirect",
+  "version": "0.1.0",
+  "description": "Mobile Redirect lib",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Janusz Slota <janusz.slota@nixilla.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.9.0",
+    "jshint-stylish": "^1.0.0",
+    "karma": "^0.12.24",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-script-launcher": "^0.1.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quiddi/mobile-redirect.git"
+  },
+  "keywords": [
+    "mobile",
+    "redirect"
+  ],
+  "bugs": {
+    "url": "https://github.com/quiddi/mobile-redirect/issues"
+  },
+  "homepage": "https://github.com/quiddi/mobile-redirect"
+}
