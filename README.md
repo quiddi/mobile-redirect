@@ -29,3 +29,7 @@ or you can use both:
 ```
 
 this code will redirect to: http://m.example.com/mobile/contact (although it doesn't make sense).
+
+Installation
+------------
+

@@ -1,6 +1,5 @@
 {
   "name": "MobileRedirect",
-  "version": "0.1.0",
   "authors": [
     "Janusz Slota <janusz.slota@nixilla.com>"
   ],
@@ -19,9 +18,16 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    ".idea",
+    "*.iml",
+    ".vagrant"
   ],
   "dependencies": {
     "mobile-detect": "hgoebl/mobile-detect.js#~0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quiddi/mobile-redirect.git"
   }
 }
