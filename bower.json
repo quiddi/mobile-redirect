@@ -1,7 +1,7 @@
 {
   "name": "MobileRedirect",
   "authors": [
-    "Janusz Slota <janusz.slota@nixilla.com>"
+    "nixilla"
   ],
   "description": "Redirects to mobile page (i.e. /mobile) if used on mobile. Uses hgoebl/mobile-detect.js.",
   "moduleType": [
