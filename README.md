@@ -40,5 +40,5 @@ bower install mobile-redirect --save
 On your desktop page add this at the end of the ```<body></body>```:
 ```html
 <script src="/bower_components/mobile-detect/mobile-detect.js"></script>
-<script src="/bower_components/mobile-redirect/mobile-redirect.js" data-mobile-path="mobile"></script>
+<script src="/bower_components/mobile-redirect/src/mobile-redirect.js" data-mobile-path="mobile"></script>
 ```
