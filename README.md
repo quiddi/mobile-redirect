@@ -33,3 +33,4 @@ this code will redirect to: http://m.example.com/mobile/contact (although it doe
 Installation
 ------------
 
+```bower install mobile-redirect --save```
