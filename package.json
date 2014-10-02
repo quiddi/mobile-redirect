@@ -6,7 +6,7 @@
   "scripts": {
     "test": "grunt test"
   },
-  "author": "Janusz Slota <janusz.slota@nixilla.com>",
+  "author": "nixilla",
   "license": "MIT",
   "dependencies": {
     "grunt": "^0.4.5",
